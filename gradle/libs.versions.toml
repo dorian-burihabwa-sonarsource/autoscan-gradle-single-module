@@ -1,0 +1,2 @@
+[libraries]
+guava = { group = "com.google.guava", name = "guava", version = "33.4.6-jre" }
